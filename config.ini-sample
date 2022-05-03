@@ -1,0 +1,7 @@
+[BotConfig]
+TelegramToken = <Insert telegram token from Botfather>
+AdminUsers = ['<Your Telegram username goes here>']
+
+[PoolConfig]
+MonitorIP = <IP of monitor container e.g. 10.8.0.1>
+DataProviderPubKey = <Public key of data_provider>
